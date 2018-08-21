@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+.wrapper {
+    width: auto;
+    margin: 0 auto;
+    margin-bottom: 20px; 
+  }
+ 
